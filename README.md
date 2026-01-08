@@ -33,7 +33,7 @@ Here you’ll find projects tackling **spam messages, customer churn, and credit
   - Data Cleaning & Preprocessing: handle missing values, encoding, scaling  
   - Models: Logistic Regression, Random Forest, Gradient Boosting  
 - **Impact:** Helps businesses retain customers, increase revenue, and reduce churn.  
-- **Folder:** `CUSTOMER_CHURN_PREDICTION/`
+- **Folder:** `Customer Churn Prediction/`
 
 ---
 
@@ -44,7 +44,7 @@ Here you’ll find projects tackling **spam messages, customer churn, and credit
   - Data Preprocessing & Feature Engineering  
   - Models: Logistic Regression, Decision Trees, Random Forests  
 - **Impact:** Minimizes financial losses and improves transaction security.  
-- **Folder:** `CREDIT_CARD_FRAUD_DETECTION/`
+- **Folder:** `Credit Card Fraud Detection/`
 
 ---
 
