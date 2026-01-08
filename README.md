@@ -4,6 +4,14 @@ Welcome to **CODSOFT** – a collection of **hands-on machine learning projects*
 
 Here you’ll find projects tackling **spam messages, customer churn, and credit card fraud**. Each project includes full preprocessing, feature engineering, and ML models.
 
+
+----
+## Dataset Links:
+   (1) Credit Card Fraud Detection - https://www.kaggle.com/datasets/kartik2112/fraud-detection
+   (2) Customer Churn Prediction - https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+   (3) Spam SMS Detection - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+
 ---
 
 ## 1️⃣ SPAM SMS DETECTION 📩
